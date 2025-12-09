@@ -1,7 +1,7 @@
 export const noticias =[
   {
     "idnoticia": 1,
-    "titulonoticia": "Acessando do Professor, não alterou o caminho",
+    "titulonoticia": "Nova descoberta em Marte",
     "conteudonoticia": "Nova descoberta em Marte. Esta notícia apresenta um desenvolvimento recente e relevante na área de pesquisa, abordando impactos sociais, científicos ou culturais. O conteúdo destaca a importância do tema, com foco na inovação, inclusão ou descoberta. A sociedade acompanha com interesse os desdobramentos.",
     "tiponoticia": "pesquisa",
     "datahoracadastro": "2025-05-17T18:17:34.750705"

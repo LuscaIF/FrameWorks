@@ -9,6 +9,7 @@ export default function Usestate() {
             <p>{count}</p>
             <button onClick={async () => {
                 setCount(await addCount(count));
+                console.log(count);
             }}>Add Count</button>
         </Container>
     </>
